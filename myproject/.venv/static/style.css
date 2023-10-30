@@ -1,0 +1,19 @@
+/* Example CSS in style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.custom-heading {
+    font-size: 24px;
+    color: #007BFF;
+}
